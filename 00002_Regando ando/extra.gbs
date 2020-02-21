@@ -1,6 +1,6 @@
 procedure RegarFila() {
   Regar()
-  while(sePuedeMoverAl(Este)) {
+  while(puedeMover(Este)) {
 	  Mover(Este)
 	  Regar()
   }
