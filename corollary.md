@@ -1,0 +1,1 @@
+¡Genial! La _producción_ de maíz :corn: va a llegar sana y salva a su destino, gracias a tu ayuda :tada:. Y hablando de destinos, ¿cuál será el nuestro? :open_mouth: ¡Vamos a descubrirlo!
