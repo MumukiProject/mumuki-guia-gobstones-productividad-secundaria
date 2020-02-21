@@ -1,0 +1,7 @@
+En ejercicios anteriores hablamos del maíz :corn:, cómo se transporta y qué se puede hacer con él pero... ¿de dónde viene? ¿cómo llega a los camiones? :scream: ¡Vamos a averiguarlo!
+
+
+:books: Para hacer estos ejercicios necesitás tener los conocimientos de:
+
+* Expresiones lógicas y ariméticas &nbsp; [<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-ciudad-de-san-luis-secundaria/master/assets/mega_sanluis_1574865841808.png" alt="mega_sanluis_1574865841808.png" width="60px" height="auto">](https://mumuki.io/secundaria.sanluis/lessons/40-fundamentos-expresiones) &nbsp; [<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-ciudad-de-san-luis-secundaria/master/assets/meta_sanluis_1574865884490.png" alt="meta_sanluis_1574865884490.png" width="60px" height="auto">](https://mumuki.io/sanluis/lessons/40-fundamentos-expresiones)
+* Repeticón condicional &nbsp; [<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-ciudad-de-san-luis-secundaria/master/assets/mega_sanluis_1574865841808.png" alt="mega_sanluis_1574865841808.png" width="60px" height="auto">](https://mumuki.io/secundaria.sanluis/lessons/43-fundamentos-repeticion-condicional) &nbsp; [<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-ciudad-de-san-luis-secundaria/master/assets/meta_sanluis_1574865884490.png" alt="meta_sanluis_1574865884490.png" width="60px" height="auto">](https://mumuki.io/sanluis/lessons/43-fundamentos-repeticion-condicional)
