@@ -3,3 +3,9 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Intransitive:program
   inspection: Not:Uses:RegarFila
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:RegarCampo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:RegarCampo
