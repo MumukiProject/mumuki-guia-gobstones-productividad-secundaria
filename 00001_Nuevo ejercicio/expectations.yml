@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:Regar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:Regar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Regar
+  inspection: UsesRepeat
