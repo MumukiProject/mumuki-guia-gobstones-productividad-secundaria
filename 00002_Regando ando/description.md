@@ -2,4 +2,4 @@
 
 Siiii, ya regamos una parcela :tada:. Pero… ¡el campo es enorme! :sweat_smile: ¿Te animás a regarlo todo? Seguro lo vas a hacer excelente. :thumbsup:
 
-> Definí el procedimiento `RegarCampo` para que riegue todas las filas de maíz. Te dejamos como ayuda `RegarFila` ya definido.
+> Definí el procedimiento `RegarCampo` para que riegue todas las filas de maíz, empezando en el origen. Te dejamos como ayuda `RegarFila` ya definido.
