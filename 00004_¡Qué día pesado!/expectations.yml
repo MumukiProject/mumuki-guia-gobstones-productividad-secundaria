@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:CargarCamion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:CargarCamion
