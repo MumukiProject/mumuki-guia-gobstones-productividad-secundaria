@@ -1,0 +1,16 @@
+procedure RegarFila() {
+  Regar()
+  while(sePuedeMoverAl(Este) {
+	  Mover(Este)
+	  Regar()
+  }
+  IrAlBorde(Oeste)
+}
+
+procedure Regar(){
+  if(hayBolitas(Negro) && not hayBolitas(Azul)){
+    repeat(5){
+      Poner(Azul)
+    }
+  }
+}

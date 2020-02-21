@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-productividad/master/assets/attires/config_1582225722094.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-productividad-secundaria/master/assets/attires/config_1582294353749.json"></gs-attire>
 
 Sale el sol :sunny:, un nuevo día comienza y es hora de trabajar en el campo. Hoy cosecharemos el maíz, por lo que es un día muy importante. ¡Reguémoslos! :shower:
 
