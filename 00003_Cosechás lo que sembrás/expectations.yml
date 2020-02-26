@@ -7,8 +7,5 @@ expectations:
   binding: "*"
   inspection: Declares:CosecharMaiz
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
-  inspection: Uses:CosecharCampo
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: CosecharCampo
   inspection: Uses:CosecharMaiz
